@@ -6,7 +6,6 @@
 - 📫  graziele.oliramos@gmail.com
 - 😄 Pronouns: ela/dela
 
-[![grazieleoliveira9's GitHub stats](https://github-readme-stats.vercel.app/apigrazieleoliveira9)](https://github.com/grazieleoliveira9/github-readme-stats)
 
 ![grazieleoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=grazieleoliveira9&show_icons=true&theme=merko)
 
