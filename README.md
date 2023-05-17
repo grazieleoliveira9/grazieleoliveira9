@@ -6,6 +6,12 @@
 - 📫  graziele.oliramos@gmail.com
 - 😄 Pronouns: ela/dela
 
+### Hi, I'm Graziele Oliveira! 😀
+- 🔭 I'm looking for a first technological development opportunity.
+- 🌱 I study Systems Analysis and Development and a Professional Python course.
+- 📫 graziele.oliramos@gmail.com
+- 😄 Pronouns: she/her
+
 
 ![grazieleoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=grazieleoliveira9&show_icons=true&theme=merko)
 
@@ -23,9 +29,12 @@
 
 ##
 
+
+
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" width="350">
 </p>
+
 
 
 
