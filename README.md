@@ -1,14 +1,12 @@
 ### Oi, sou Graziele Oliveira! 😀
 
 
-- 🔭 Estou a procura de uma primeira oportunidade de desenvolvimento tecnológico.
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas e um curso de Python Profissional.
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas.
 - 📫  graziele.oliramos@gmail.com
 - 😄 Pronouns: ela/dela
 
 ### Hi, I'm Graziele Oliveira! 😀
-- 🔭 I'm looking for a first technological development opportunity.
-- 🌱 I study Systems Analysis and Development and a Professional Python course.
+- 🌱 I study Systems Analysis and Development.
 - 📫 graziele.oliramos@gmail.com
 - 😄 Pronouns: she/her
 
