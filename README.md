@@ -16,8 +16,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazieleoliveira9&layout=compact)](https://github.com/grazieleoliveira9/github-readme-stats)
 
 ## Estou aprendendo
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40" /><img 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /><img 
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" 
+  width="40" 
+  height="40" 
+  alt="Python" 
+  title="Python"
+  style="vertical-align: middle;"
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+  width="40" 
+  height="40" 
+  alt="C#" 
+  title="C#"
+  style="vertical-align: middle;"
+/>
           
             
  
